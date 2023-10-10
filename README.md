@@ -3,7 +3,8 @@
 <pre>
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
-├─▣ I'm Anas Boubechra aka Cschad 
+├─▣ I'm Anas Boubechra aka Cschad
+├─▣ ${current_year - 2001} Age
 ├─▣ <a href="https://cschad.com/about">About me</a>
 └───────────────────────────────▰▰▰
 
