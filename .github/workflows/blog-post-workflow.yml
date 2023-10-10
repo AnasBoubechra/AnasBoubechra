@@ -16,4 +16,4 @@ jobs:
       - name: Pull in cschad.com posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://rssproxy.migor.org/api/tf?url=https%3A%2F%2Fcschad.com%2Fposts%2Findex.xml"
+          feed_list: "https://rssproxy.migor.org/api/tf?url=https%3A%2F%2Fcschad.com%2Fposts%2Findex.xml&re=full&debug=true&out=atom"
