@@ -4,6 +4,7 @@
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
 <table>
 ### On my blog
+  
 <!-- BLOG-POST-LIST:START -->
 - [Optimizing Your Shell Scripts: Best Practices for Efficiency and Performance](https://cschad.com/posts/shell_scripting_for_efficiency/)
 - [AI and Machine Learning: Shaping the Future](https://cschad.com/posts/artificial_intelligence/)
@@ -12,6 +13,7 @@
 - [Easily configure Hyprland and install the relevant Xwayland native packages](https://cschad.com/posts/hyprland_configuration/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ More posts on [cschad.com/posts](https://cschad.com/posts)
+
 </table>
 
 
