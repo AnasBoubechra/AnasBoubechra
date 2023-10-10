@@ -17,7 +17,7 @@
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
 <table>
   
-### My latest posts!
+### My latest posts
 <!-- BLOG-POST-LIST:START -->
 - [Optimizing Your Shell Scripts: Best Practices for Efficiency and Performance](https://cschad.com/posts/shell_scripting_for_efficiency/)
 - [AI and Machine Learning: Shaping the Future](https://cschad.com/posts/artificial_intelligence/)
