@@ -28,6 +28,3 @@
 ➡️ More posts on [cschad.com/posts](https://cschad.com/posts)
 
 </table>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-<a href="https://visitor-badge.laobi.icu/badge?page_id=AnasBoubechra.visitor-badge&title=Visits"><img src="https://visitor-badge.laobi.icu/badge?page_id=AnasBoubechra.visitor-badge&title=Visits" align="right" alt="Visits"></a> 
