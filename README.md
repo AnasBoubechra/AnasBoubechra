@@ -1,6 +1,5 @@
-###  Data analyst | Cybersecurity analyst | Linux geek
-More on [cschad.com](https://cschad.com)
-
+###  Data analyst | Cybersecurity analyst | Linux geek 🐧
+<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
 <table><tr>
 
 ---
@@ -13,7 +12,7 @@ More on [cschad.com](https://cschad.com)
 - [Is your data ever really deleted?](https://cschad.com/posts/is_your_data_ever_really_deleted/)
 - [Easily configure Hyprland and install the relevant Xwayland native packages](https://cschad.com/posts/hyprland_configuration/)
 <!-- BLOG-POST-LIST:END -->
-More on [cschad.com/posts](https://cschad.com/posts)
+➡️ More posts on [cschad.com/posts](https://cschad.com/posts)
 </tr>
 </table>
 
