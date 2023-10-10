@@ -16,4 +16,4 @@ jobs:
       - name: Pull in cschad.com posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://lukesmith.xyz/index.xml"
+          feed_list: "https://cschad.com/posts/index.xml"
