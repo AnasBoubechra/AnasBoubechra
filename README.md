@@ -39,6 +39,7 @@
 - Btw I use Arch [<img src="https://archlinux.org/static/logos/apple-touch-icon-144x144.38cf584757c3.png" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
 
 </details>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <div align="right">
   <a href="https://cschad.com/donate">
     <img src="https://img.shields.io/badge/$-support-4169e1.svg?style=flat" alt="Donate" />
