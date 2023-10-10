@@ -11,8 +11,7 @@
 ┌──┤ CONTACT ├─────────▰▰▰
 │
 ├─▣ email: anas@cschad.tech, anas@cschad.com
-├─▣ <a href="https://fb.com/anas.boubechra">Facebook</a>
-├─▣ <a href="https://cschad.com/public_key.txt">GPG</a>
+├─▣ <a href="https://cschad.com/public_key.txt">🔑 GPG</a>
 └───────────────────────────────▰▰▰
 </pre>
 
