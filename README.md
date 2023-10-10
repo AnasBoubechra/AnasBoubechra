@@ -1,5 +1,5 @@
 ###  Data analyst | Cybersecurity analyst | Linux geek 🐧
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <pre>
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
@@ -35,8 +35,7 @@
   </a>
   <a href="https://visitor-badge.laobi.icu/badge?page_id=AnasBoubechra.visitor-badge&title=Visits"><img src="https://visitor-badge.laobi.icu/badge?page_id=AnasBoubechra.visitor-badge&title=Visits" align="right" alt="Visits"></a> 
 </div>
-
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ### Skills 🛠️
 <p align="center"> <a href="https://archlinux.org" target="_blank" rel="noreferrer"> <img src="https://archlinux.org/static/logos/apple-touch-icon-144x144.38cf584757c3.png" alt="arch" width="40" height="40"/> </a> </p>
