@@ -31,7 +31,7 @@
 
 ### Skills 🛠️
 - **Languages**:&nbsp;                         C, Python, Bash/Sh, SQL
-- **Libraries**:&nbsp;&nbsp;&nbsp;&nbsp;       Pandas, NumPy, Flask, Scikit-learn
+- **Libraries**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pandas, NumPy, Flask, Scikit-learn
 - **DevOps**:    &nbsp;&nbsp;&nbsp;&nbsp;      Linux, Git, Docker
 
 <div align="right">
