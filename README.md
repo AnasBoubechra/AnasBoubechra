@@ -1,4 +1,9 @@
 ###  Data analyst | Cybersecurity analyst | Linux geek 🐧
+<div align="right">
+  <a href="https://cschad.com/donate">
+    <img src="https://img.shields.io/badge/$-support-ff69b4.svg?style=flat" alt="Donate" />
+  </a>
+</div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <pre>
 ┌──┤ WHOAMI ├─────────▰▰▰
@@ -32,6 +37,6 @@
 
 ### Skills 🛠️
 - **Languages**:&nbsp;                         C, Python, Bash/Sh, SQL
-- **Libraries**:                               Pandas, NumPy, Flask, Scikit-learn
+- **Libraries**:&nbsp;&nbsp;                   Pandas, NumPy, Flask, Scikit-learn
 - **DevOps**:    &nbsp;&nbsp;&nbsp;&nbsp;      Linux, Git, Docker
 
