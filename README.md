@@ -1,6 +1,21 @@
 ###  Data analyst | Cybersecurity analyst | Linux geek 🐧
 ---
 
+<pre>
+┌──┤ WHOAMI ├─────────▰▰▰
+│
+├─▣ I'm Anas Boubechra aka Cschad 
+├─▣ <a href="https://cschad.com/about">About me</a>
+└───────────────────────────────▰▰▰
+
+┌──┤ CONTACT ├─────────▰▰▰
+│
+├─▣ email: anas@cschad.tech, anas@cschad.com
+├─▣ <a href="https://fb.com/anas.boubechra">Facebook</a>
+├─▣ <a href="https://cschad.com/public_key.txt">GPG</a>
+└───────────────────────────────▰▰▰
+</pre>
+
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
 <table>
   
