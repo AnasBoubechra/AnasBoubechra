@@ -6,8 +6,8 @@ More on [cschad.com](https://cschad.com)
 ---
 
 ### On my blog
-<!-- blog starts -->
-<!-- blog ends -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 More on [cschad.com/posts](https://cschad.com/posts)
 </tr>
 </table>
