@@ -29,3 +29,9 @@
 ➡️ More posts on [cschad.com/posts](https://cschad.com/posts)
 
 </table>
+
+### Skills 🛠️
+- **Languages**:&nbsp;                         C, Python, Bash/Sh, SQL
+- **Libraries**:                               Pandas, NumPy, Flask, Scikit-learn
+- **DevOps**:    &nbsp;&nbsp;&nbsp;&nbsp;      Linux, Git, Docker
+
