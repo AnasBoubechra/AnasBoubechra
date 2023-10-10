@@ -1,6 +1,6 @@
 ###  Data analyst | Cybersecurity analyst | Linux geek 🐧
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
-<table><tr>
+<table>
 
 ---
 
@@ -13,7 +13,7 @@
 - [Easily configure Hyprland and install the relevant Xwayland native packages](https://cschad.com/posts/hyprland_configuration/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ More posts on [cschad.com/posts](https://cschad.com/posts)
-</tr>
+
 </table>
 
 ---
