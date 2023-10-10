@@ -1,10 +1,11 @@
 ###  Data analyst | Cybersecurity analyst | Linux geek 🐧
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <div align="right">
   <a href="https://cschad.com/donate">
-    <img src="https://img.shields.io/badge/$-support-ff69b4.svg?style=flat" alt="Donate" />
+    <img src="https://img.shields.io/badge/$-support-4169e1.svg?style=flat" alt="Donate" />
   </a>
 </div>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 <pre>
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
