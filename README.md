@@ -1,11 +1,5 @@
 ###  Data analyst | Cybersecurity analyst | Linux geek 🐧
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<div align="right">
-  <a href="https://cschad.com/donate">
-    <img src="https://img.shields.io/badge/$-support-4169e1.svg?style=flat" alt="Donate" />
-  </a>
-</div>
-
 <pre>
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
@@ -13,7 +7,6 @@
 ├─▣ ${current_year - 2001} Age
 ├─▣ <a href="https://cschad.com/about">About me</a>
 └───────────────────────────────▰▰▰
-
 ┌──┤ CONTACT ├─────────▰▰▰
 │
 ├─▣ email: anas@cschad.tech, anas@cschad.com
@@ -38,6 +31,12 @@
 
 ### Skills 🛠️
 - **Languages**:&nbsp;                         C, Python, Bash/Sh, SQL
-- **Libraries**:&nbsp;&nbsp;                   Pandas, NumPy, Flask, Scikit-learn
+- **Libraries**:&nbsp;&nbsp;&nbsp;&nbsp;       Pandas, NumPy, Flask, Scikit-learn
 - **DevOps**:    &nbsp;&nbsp;&nbsp;&nbsp;      Linux, Git, Docker
 
+<div align="right">
+  <a href="https://cschad.com/donate">
+    <img src="https://img.shields.io/badge/$-support-4169e1.svg?style=flat" alt="Donate" />
+  </a>
+  <a href="https://visitor-badge.laobi.icu/badge?page_id=AnasBoubechra.visitor-badge&title=Visits"><img src="https://visitor-badge.laobi.icu/badge?page_id=AnasBoubechra.visitor-badge&title=Visits" align="right" alt="Visits"></a> 
+</div>
