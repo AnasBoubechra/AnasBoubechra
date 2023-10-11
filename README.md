@@ -25,7 +25,7 @@
 - [Is your data ever really deleted?](https://cschad.com/posts/is_your_data_ever_really_deleted/)
 - [Easily configure Hyprland and install the relevant Xwayland native packages](https://cschad.com/posts/hyprland_configuration/)
 <!-- BLOG-POST-LIST:END -->
-➡️ More posts on [cschad.com/posts](https://cschad.com/posts)
+➡️ More posts on [blog.cschad.com/posts](https://blog.cschad.com/posts/)
 
 </table>
 
