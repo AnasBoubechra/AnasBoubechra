@@ -19,11 +19,11 @@
   
 ### My latest posts
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing Your Shell Scripts: Best Practices for Efficiency and Performance](https://cschad.com/posts/shell_scripting_for_efficiency/)
-- [AI and Machine Learning: Shaping the Future](https://cschad.com/posts/artificial_intelligence/)
-- [A VPN for privacy ... 🤔! Really ?](https://cschad.com/posts/vpns_and_privacy/)
-- [Is your data ever really deleted?](https://cschad.com/posts/is_your_data_ever_really_deleted/)
-- [Easily configure Hyprland and install the relevant Xwayland native packages](https://cschad.com/posts/hyprland_configuration/)
+- [Optimizing Your Shell Scripts: Best Practices for Efficiency and Performance](https://blog.cschad.com/posts/shell_scripting_for_efficiency/)
+- [AI and Machine Learning: Shaping the Future](https://blog.cschad.com/posts/artificial_intelligence/)
+- [A VPN for privacy ... 🤔! Really ?](https://blog.cschad.com/posts/vpns_and_privacy/)
+- [Is your data ever really deleted?](https://blog.cschad.com/posts/is_your_data_ever_really_deleted/)
+- [Easily configure Hyprland and install the relevant Xwayland native packages](https://blog.cschad.com/posts/hyprland_configuration/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ More posts on [blog.cschad.com/posts](https://blog.cschad.com/posts/)
 
