@@ -20,11 +20,11 @@
   
 ### My latest posts
 <!-- BLOG-POST-LIST:START -->
+- [OpenBSD 7.5: Post installation and Administration](https://blog.cschad.com/posts/openbsd_75_post_installation/)
 - [OpenBSD 7.5: The Rock-Solid Foundation for Your Secure Server](https://blog.cschad.com/posts/guide_to_openbsd_75_installation/)
 - [Advanced Python: Function and Class Decorators](https://blog.cschad.com/posts/function-and-class-decorators/)
 - [Securing Your Flask Application](https://blog.cschad.com/posts/securing-your-flask-application/)
 - [Optimizing Your Shell Scripts: Best Practices for Efficiency and Performance](https://blog.cschad.com/posts/shell_scripting_for_efficiency/)
-- [AI and Machine Learning: Shaping the Future](https://blog.cschad.com/posts/artificial_intelligence/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ More posts on [blog.cschad.com/posts](https://blog.cschad.com/posts/)
 
