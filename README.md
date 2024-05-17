@@ -39,7 +39,7 @@ All repos here are old and not updated.
   </a>
   <a href="https://visitor-badge.laobi.icu/badge?page_id=AnasBoubechra.visitor-badge&title=Visits"><img src="https://visitor-badge.laobi.icu/badge?page_id=AnasBoubechra.visitor-badge&title=Visits" align="right" alt="Visits"></a> 
 </div>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 ### Skills 🛠️
 <p align="center"> <a href="https://archlinux.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Arch_Linux_%22Crystal%22_icon.svg" alt="arch" width="40" height="40"/> </a> </p>
