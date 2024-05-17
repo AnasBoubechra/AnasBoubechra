@@ -1,8 +1,8 @@
 ###  Data analyst | Programmer | Linux geek 🐧
 
-All repos here are old, not updated
+All repos here are old and not updated.
 
-See my personal [git server](https://git.cschad.com) instead
+➡️ See my personal [git server](https://git.cschad.com) instead.
 
 <pre>
 ┌──┤ WHOAMI ├─────────▰▰▰
