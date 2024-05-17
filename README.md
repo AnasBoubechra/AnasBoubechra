@@ -1,5 +1,9 @@
 ###  Data analyst | Programmer | Linux geek 🐧
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+All repos here are old, not updated
+
+See my personal [git server](https://git.cschad.com) instead
+
 <pre>
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
@@ -15,7 +19,6 @@
 └───────────────────────────────▰▰▰
 </pre>
 
-<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="200" />
 <table>
   
 ### My latest posts
