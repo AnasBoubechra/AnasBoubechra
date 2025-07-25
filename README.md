@@ -23,11 +23,7 @@ All repos here are old and not updated.
   
 ### My latest posts
 <!-- BLOG-POST-LIST:START -->
-- [SERVICE ANNOUNCEMENT: About this feed](https://github.com/damoeb/feedless/wiki/Messages-in-your-Feed#standalone-feed-urls)
-- [OpenBSD 7.5: Post installation and Administration](https://blog.cschad.com/posts/openbsd_75_post_installation/)
-- [OpenBSD 7.5: The Rock-Solid Foundation for Your Secure Server](https://blog.cschad.com/posts/guide_to_openbsd_75_installation/)
-- [Advanced Python: Function and Class Decorators](https://blog.cschad.com/posts/function-and-class-decorators/)
-- [Securing Your Flask Application](https://blog.cschad.com/posts/securing-your-flask-application/)
+- [ALERT: Potential Issue with Feed](https://github.com/damoeb/feedless/wiki/Errors#error-potential-issue-with-feed)
 <!-- BLOG-POST-LIST:END -->
 ➡️ More posts on [blog.cschad.com/posts](https://blog.cschad.com/posts/)
 
